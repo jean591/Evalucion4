@@ -1,0 +1,39 @@
+#logo {
+font-style: inherit;
+font-size: 30px;
+color:sienna;
+font-family: cursive;
+font-variant-ligatures:initial;
+}
+#contenidopage{
+    margin: 50px;;
+    text-align: justify;
+}
+h1{
+    font-size: 9mm;
+}
+#carouselExampleCaptions{
+margin-right: 40px;
+margin-left: 40px;
+margin: 40px;
+}
+h5{
+    color:darkorange;
+    font-weight: bold;
+}
+#contslide{
+    color:darkred;
+    text-align: justify;
+    font-style: italic;
+    font-weight: bolder;
+}
+#container_login,#signup{
+    margin: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#registro{
+    font-weight: bold;
+    font-size: 7mm;
+    color:dodgerblue;
+}
